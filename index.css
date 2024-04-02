@@ -1,0 +1,28 @@
+.item {
+    background-color: red;
+    height: 20px;
+    margin: 5px;
+}
+
+.parent {
+    width: 200px;
+    border: 1px solid black;
+}
+
+
+.item-percent {
+    width: 50%;
+}
+
+.item-view {
+    width: 50vw;
+}
+
+.rem {
+    font-size: 2rem;
+}
+
+.em {
+    font-size: 2em;
+
+}
